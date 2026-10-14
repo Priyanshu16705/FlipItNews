@@ -1,6 +1,6 @@
 streamlit
 tensorflow==2.19.0
-numpy
+numpy==2.1.3
 pandas
 matplotlib
 nltk
