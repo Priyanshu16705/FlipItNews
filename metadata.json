@@ -1,0 +1,13 @@
+{
+  "class_names": [
+    "business",
+    "entertainment",
+    "politics",
+    "sport",
+    "tech"
+  ],
+  "max_len": 400,
+  "vocab_size": 20000,
+  "embedding_dim": 100,
+  "model_name": "Word2Vec + BiLSTM"
+}
